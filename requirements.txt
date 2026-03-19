@@ -1,0 +1,8 @@
+python-dotenv
+langchain-google-genai
+streamlit
+mcp
+langchain-mcp-adapters
+langgraph
+pypdf
+fpdf2
